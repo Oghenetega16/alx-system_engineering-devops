@@ -1,2 +1,1 @@
-#!/bin/bash
-chown betty: school *
+chown betty:my_dir *

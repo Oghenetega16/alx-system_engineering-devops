@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This script displays 'To infinity and beyond' indefinitely
-# Requirement: In between each iteration of the loop, add a sleep 2
+# Script creates infinite loop that displays text with sleep 2
+# User needs to press Ctrl-C to stop
 
 while true
 do

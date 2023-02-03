@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
-# A regular expression that is matches a given pattern
+# Match "hbn, hbtn, hbtttttn" not "hbon"
+
 puts ARGV[0].scan(/hbt*n/).join
+
